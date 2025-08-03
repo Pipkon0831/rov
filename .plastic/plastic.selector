@@ -1,0 +1,4 @@
+repository "rov_tuanjie@tj_rov_qab@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

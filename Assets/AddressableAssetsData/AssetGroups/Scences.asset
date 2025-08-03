@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Scences
+  m_EditorClassIdentifier: 
+  m_GroupName: Scences
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c69f69a09c16123479a0e9c95431bdd3
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6b610adbdb233414684271778961c5cb, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c093681ed7a5ce349bbc362345020cba, type: 2}
+    - {fileID: 11400000, guid: b68271df202e555418d5dc81b648ac2c, type: 2}

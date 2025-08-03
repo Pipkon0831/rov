@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Opening.scene
+    guid: 84f9b16d991f3804896881d98dd4b169
+  - enabled: 1
+    path: Assets/Scenes/Game1.scene
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Game2.scene
+    guid: d5209cb567753d748abb0fca2ee27b43
+  - enabled: 1
+    path: Assets/Scenes/Game3.scene
+    guid: 9c60985b08e359641a17684673c9c4b4
+  - enabled: 1
+    path: Assets/Scenes/Game4.scene
+    guid: 43ac462437e95f145b2040ecbeab9016
+  - enabled: 1
+    path: Assets/Scenes/Game5.scene
+    guid: b881d70571373ab4e8728b9ff6f36126
+  - enabled: 1
+    path: Assets/Scenes/UI.scene
+    guid: 0a82718a11ab3d3458aa39cc2ff90c81
+  m_BuildProfiles: []
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 90ae40f56b3eded42ae66cb6e2c06517, type: 2}
+  m_SlimFeaturesWeixinMiniGame:
+    AllocateOverhead: 1
+    DecompressASTC: 0
+    DecompressDXT: 1
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2
